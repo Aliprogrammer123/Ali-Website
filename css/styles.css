@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: "Libre Baskerville";
+    background-color: rgb(244, 250, 255);
+}
+
+.top-container{
+    background-color: powderblue;
+    padding-top: 200px;
+    position: relative;
+}
+
+h1{
+    margin-top: 0;
+    font-size: 150px;
+    font-family: "Sacramento";
+    color: #66BFBF;
+}
+.subtitle{
+    font-family: "Libre Baskerville";
+    font-size: 2em;
+    color: #66BFBF;
+}
+h2{
+    margin-top: 0;
+    font-size: 60px;
+    font-family: "Pacifico";
+    font-size: 30px;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    margin-top: 0;
+    font-size: 60px;
+    font-family: "Pacifico";
+    font-size: 25px;
+    color:#11999E;
+}
+.mountain{
+    width: 1200px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 100px;
+    width: 350px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 500px;
+    width: 350px;
+}
+.Profile{
+    border: solid;
+    border-width: 20px;
+    border-image: repeating-linear-gradient(30deg, #4d9f0c, #2087e7, #4d9f0c 20px) 60;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.Piano{
+    height: 518px;
+    width: 388px;
+}
+.Programming{
+    height: 550px;
+    width: 366px;
+}
+p{
+    font-size: 20px;
+}
+hr{
+    margin: 50px auto 50px auto;
+    width: 5%;
+    color: aqua;
+    border: none;
+    border-top-style: dotted;
+    border-width: 10px;
+}
